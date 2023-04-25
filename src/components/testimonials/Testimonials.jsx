@@ -23,7 +23,7 @@ const data = [
   {
     avatar: AVTR2,
     name: 'Lucas Faugeron, Développeur Web en Freelance',
-    review: 'Modi alias dolorem aliquem ea eul mbetaiuhrbvhuzif hfuegifuregbibvievbiibecndiuvbefubvjsdibfiuezrbfuehfjsbfuizgrfhiuer ierhferu g feru afger fergber ufer bbded'
+    review: 'Jérémy a toujours été très autonome et efficace, ses remarques sont toujours pertinentes. Il pourra vous accompagner dans la réussite de vos projets.'
 
   },
 
