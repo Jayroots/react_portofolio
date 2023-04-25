@@ -29,7 +29,7 @@ const Contact = () => {
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
-            <h5>jerem.francois@gmail.com</h5>
+            <h5>j***********@gmail.com</h5>
             <a href="mailto:jerem.francois@gmail.com" target='_blank'>Envoyez un message</a>
 
           </article>
@@ -43,7 +43,7 @@ const Contact = () => {
           <article className='contact__option'>
             <ImWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
-            <h5>06 60 90 00 45</h5>
+            <h5>06 ** ** ** 45</h5>
             <a href="https://wa.me/0660900045" target='_blank'>Appelez moi</a>
 
           </article>
