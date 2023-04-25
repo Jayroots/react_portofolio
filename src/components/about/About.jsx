@@ -4,6 +4,7 @@ import ME from '../../assets/realme-about.jpg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
+import CV from '../../assets/CV.pdf'
 
 const About = () => {
   return (
@@ -24,7 +25,7 @@ const About = () => {
           <div className="about__cards">
             <article className='about__card'>
               <FaAward className='about__icon' />
-              <h5>Experience</h5>
+              <h5>Expérience</h5>
               <small>1 an</small>
             </article>
             <article className='about__card'>
@@ -37,10 +38,15 @@ const About = () => {
               <h5>Projets</h5>
               <small>5</small>
             </article>
+            <article className='about__card'>
+              <FiUsers className='about__icon' />
+              <h5>Soft Skills</h5>
+              <small> <a href={CV} target='_blank'>Mon cv</a> </small>
+            </article>
           </div>
           <p>
             Actuellement en formation de <strong> développeur Web Full Stack</strong>,
-            je recherche une alternance d'un an à partir de septembre
+            je recherche une alternance d'1 an à partir de septembre
             pour finaliser mon diplôme BAC +3 auprès de la Wild Code School, école professionnalisante.
             <br /><br />
 
@@ -52,7 +58,7 @@ const About = () => {
             envie de les rejoindre et je serai ravi de faire partie d'une belle aventure humaine.
             <br /> <br />
 
-            Pourquoi moi ? J'apprends vite et suis engagé pour accomplir les projets d'entreprise qui ont du sens.
+            <strong> Pourquoi moi ?</strong> J'apprends vite et suis engagé pour accomplir les projets d'entreprise qui ont du sens.
             <br /><br />
             A bientôt !
           </p>

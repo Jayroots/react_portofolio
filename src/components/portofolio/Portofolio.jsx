@@ -28,7 +28,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'Curriculum Vitae',
-    github: 'https://github.com',
+    github: 'https://github.com/Jayroots/react_portofolio',
     demo: 'https://cv-opal-seven.vercel.app/',
     text: 'CV intéractif et dynamique créé de zéro sous REACT JS : lien fonctionnels vers messagerie et réseaux sociaux'
 
@@ -71,8 +71,8 @@ const Portofolio = () => {
                 </div>
                 <h3>{title}</h3>
                 <div className="portofolio__item-cta">
-                  <a href={github} className='btn'>Github</a>
-                  <a href={demo} className='btn btn-primary' target='_blank'>Site</a>
+                  <a href={github} target='_blank' className='btn'>Github</a>
+                  <a href={demo} target='_blank' className='btn btn-primary'>Site</a>
                 </div>
                 <p className='text'>
                   {text}
