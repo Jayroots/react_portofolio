@@ -29,7 +29,7 @@ const data = [
     image: IMG3,
     title: 'Curriculum Vitae',
     github: 'https://github.com',
-    demo: 'https://dribble.com',
+    demo: 'https://cv-opal-seven.vercel.app/',
     text: 'CV intéractif et dynamique créé de zéro sous REACT JS : lien fonctionnels vers messagerie et réseaux sociaux'
 
   },
