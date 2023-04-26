@@ -5,6 +5,8 @@ import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
 import CV from '../../assets/CV.pdf'
+import { GiSkills } from 'react-icons/gi'
+
 
 const About = () => {
   return (
@@ -39,7 +41,7 @@ const About = () => {
               <small>5</small>
             </article>
             <article className='about__card'>
-              <FiUsers className='about__icon' />
+              <GiSkills className='about__icon' />
               <h5>Soft Skills</h5>
               <small> <a href={CV} target='_blank'>Mon cv</a> </small>
             </article>

@@ -17,13 +17,13 @@ const data = [
   {
     avatar: AVTR1,
     name: 'Laurent Daniel,  Responsable Regional chez PRETTO',
-    review: 'Jérémy est un véritable atout humain. Fiable, intègre, travailleur... autant de qualités qui font de lui un être apprécié partout où il est passé'
+    review: '"Jérémy est un véritable atout humain. Fiable, intègre, travailleur... autant de qualités qui font de lui un être apprécié partout où il est passé."'
 
   },
   {
     avatar: AVTR2,
     name: 'Lucas Faugeron, Développeur Web en Freelance',
-    review: 'Jérémy a toujours été très autonome et efficace, ses remarques sont toujours pertinentes. Il pourra vous accompagner dans la réussite de vos projets.'
+    review: '"Jérémy a toujours été très autonome et efficace, ses remarques sont toujours pertinentes. Il pourra vous accompagner dans la réussite de vos projets."'
 
   },
 
