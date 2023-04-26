@@ -48,7 +48,7 @@ header {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
-    position: absolute;
+    position: relative;
     left: calc(50% - 11rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
@@ -72,8 +72,7 @@ header {
 /*==================== MEDIA QUERIES (medium devices) ==========*/
 @media screen and (max-width:1024px) {
     header {
-        height: 69vh;
-
+        height: 100%;
     }
 }
 
@@ -81,7 +80,9 @@ header {
 /*==================== MEDIA QUERIES (small devices) ==========*/
 @media screen and (max-width:600px) {
     header {
-        height: 100vh;
+        height: 100%;
+        overflow: visible;
+
 
     }
 
@@ -89,4 +90,5 @@ header {
     .scroll__down {
         display: none;
     }
+
 }
