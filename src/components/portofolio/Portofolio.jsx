@@ -22,7 +22,7 @@ const data = [
     title: 'Lets Go',
     github: 'https://github.com/Headonnn/LetsGo',
     demo: 'https://dribble.com',
-    text: 'Portail référençant les évènements en Loire Atlantique : utilisation d API et mise en place de menus filtrants'
+    text: 'EN COURS D ELABORATION      Portail référençant les évènements en Loire Atlantique : utilisation d API et mise en place de menus filtrants'
   },
   {
     id: 3,
