@@ -22,7 +22,7 @@ const data = [
     title: 'Lets Go',
     github: 'https://github.com/Headonnn/LetsGo',
     demo: 'https://dribble.com',
-    text: 'EN COURS D ELABORATION :   Portail référençant les évènements en Loire Atlantique : utilisation d API et mise en place de menus filtrants'
+    text: 'Portail référençant les évènements en Loire Atlantique : utilisation d API et mise en place de menus filtrants'
   },
   {
     id: 3,
@@ -30,25 +30,25 @@ const data = [
     title: 'Curriculum Vitae',
     github: 'https://github.com/Jayroots/react_portofolio',
     demo: 'https://cv-opal-seven.vercel.app/',
-    text: 'CV intéractif et dynamique créé de zéro sous REACT JS : lien fonctionnels vers messagerie et réseaux sociaux'
+    text: 'CV intéractif et dynamique créé de zéro sous REACT JS : liens fonctionnels vers messagerie et réseaux sociaux'
 
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Projet 3',
-    github: 'https://github.com',
-    demo: 'https://dribble.com',
-    text: 'En cours d élaboration'
+    title: 'AFAC 974',
+    github: 'https://github.com/MathieuMrt/AFAC',
+    demo: 'http://vps-d5babf40.vps.ovh.net:5030/',
+    text: "Site vitrine affichant une galerie d'oeuvres d'art, possibilité pour le visiteur de se connecter et mettre en favoris des oeuvres et mettre à jour son profil. Partie Administrateur pour la gestion du contenu : ajout, suppression et modification des oeuvres et droits utilisateurs."
 
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Hackathon',
-    github: 'https://github.com',
-    demo: 'https://dribble.com',
-    text: 'En cours d élaboration'
+    title: 'E QUAL',
+    github: 'https://github.com/Jayroots/equal',
+    demo: 'https://equal-one.vercel.app/',
+    text: "Site vitrine dynamique affichant les analyses de la qualité de l'eau en France avec service de GEOLOCALISATION, RECHERCHE et analyse via GRAPHIQUE DE DONNEES."
 
   },
 

@@ -30,28 +30,28 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>JavaScript </h4>
-                <small class='text-light'>Intermédiaire</small>
+                <small class='text-light'>Expérimenté</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>REACT </h4>
-                <small class='text-light'>Intermédiaire</small>
+                <small class='text-light'>Expérimenté</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Tailwind </h4>
-                <small class='text-light'>intermédiaire</small>
+                <small class='text-light'>Expérimenté</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>SASS </h4>
-                <small class='text-light'>Intermédiaire</small>
+                <small class='text-light'>Expérimenté</small>
               </div>
             </article>
           </div>
@@ -82,7 +82,15 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>MySQL </h4>
-                <small class='text-light'>Débutant</small>
+                <small class='text-light'>Intermédiaire</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>NEXT JS </h4>
+                <small class='text-light'>Intermédiaire</small>
               </div>
             </article>
 
