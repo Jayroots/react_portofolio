@@ -33,7 +33,7 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>2</small>
+              <small>5</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
@@ -47,17 +47,16 @@ const About = () => {
             </article>
           </div>
           <p>
-            Actuellement en formation de <strong> développeur Web Full Stack</strong>,
-            je recherche une alternance d'1 an à partir de septembre
-            pour finaliser mon diplôme BAC +3 auprès de la Wild Code School, école professionnalisante.
+          Actuellement <strong>Développeur Web Full Stack</strong> après ma formation certifiante de niveau 5, 
+          je recherche une entreprise qui me fera confiance pour ma première expérience professionnelle.
+
             <br /><br />
 
-            Etant novice dans le domaine, j’ai tout de même su mettre
-            en application mon récent apprentissage pour la <strong>réalisation de projets professionnels </strong>
-            et reste en veille permanente sur ce métier qui me passionne.
+            J’ai su mettre en application mon récent apprentissage pour la <strong>réalisation de projets professionnels</strong>
+            (cf mon CV et Linkedin) et reste en veille permanente sur ce métier qui me passionne.
             <br /><br />
-            Je recherche une entreprise dont les valeurs véhiculées me donneront
-            envie de les rejoindre et je serai ravi de faire partie d'une belle aventure humaine.
+            <strong>Pourquoi vous ?</strong> Je serai ravi de faire partie d'une entreprise dont les valeurs véhiculées
+             me donneront envie de m'investir pleinement.
             <br /> <br />
 
             <strong> Pourquoi moi ?</strong> J'apprends vite et suis engagé pour accomplir les projets d'entreprise qui ont du sens.
