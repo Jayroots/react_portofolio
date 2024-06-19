@@ -15,6 +15,34 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
+                <h4>REACT </h4>
+                <small class='text-light'>Expérimenté</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>ANGULAR</h4>
+                <small class='text-light'>Expérimenté</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>JavaScript </h4>
+                <small class='text-light'>Expérimenté</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>SASS </h4>
+                <small class='text-light'>Expérimenté</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
                 <h4>HTML </h4>
                 <small class='text-light'>Expérimenté</small>
               </div>
@@ -24,34 +52,6 @@ const Experience = () => {
               <div>
                 <h4>CSS </h4>
                 <small class='text-light'>Expérimenté</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>JavaScript </h4>
-                <small class='text-light'>Intermédiaire</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>REACT </h4>
-                <small class='text-light'>Intermédiaire</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Tailwind </h4>
-                <small class='text-light'>intermédiaire</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>SASS </h4>
-                <small class='text-light'>Intermédiaire</small>
               </div>
             </article>
           </div>
@@ -73,8 +73,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>API Express </h4>
-                <small class='text-light'>Intermédiaire</small>
+                <h4>JAVA </h4>
+                <small class='text-light'>Expérimenté</small>
               </div>
             </article>
 
@@ -82,10 +82,25 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>MySQL </h4>
-                <small class='text-light'>Débutant</small>
+                <small class='text-light'>Intermédiaire</small>
               </div>
             </article>
 
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>SPRING </h4>
+                <small class='text-light'>Expérimenté</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>SPRING BOOT </h4>
+                <small class='text-light'>Expérimenté</small>
+              </div>
+            </article>
 
           </div>
 

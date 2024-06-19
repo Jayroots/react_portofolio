@@ -1,4 +1,4 @@
-import React from 'react'
+
 import './contact.css'
 import { MdOutlineEmail } from 'react-icons/md'
 import { AiOutlineLinkedin } from 'react-icons/ai'
@@ -37,7 +37,7 @@ const Contact = () => {
             <AiOutlineLinkedin className='contact__option-icon' />
             <h4>Linkedin</h4>
             <h5>Jeremy Francois</h5>
-            <a href="https://www.linkedin.com/in/jeremy-francois/" target='_blank'>Retrouvez moi</a>
+            <a href="https://www.linkedin.com/in/jeremy-francois/" target='_blank'> Retrouvez moi</a>
 
           </article>
           <article className='contact__option'>

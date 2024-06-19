@@ -1,54 +1,26 @@
 import React from 'react'
 import './portofolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.jpg'
 
 const data = [
 
   {
     id: 1,
-    image: IMG1,
-    title: 'WIld Eats',
-    github: 'https://github.com/SL-Production/Project01',
-    demo: 'https://web.wildeats.fr/',
-    text: 'Annuaire interactif des restaurants se situant dans le quartier de la Cité des Congrès près de la WILD CODE SCHOOL. Développement HTML CSS et JAVASCRIPT dont sélection des commerçants par FILTRE '
-  },
-  {
-    id: 2,
-    image: IMG2,
-    title: 'Lets Go',
-    github: 'https://github.com/Headonnn/LetsGo',
-    demo: 'https://dribble.com',
-    text: 'EN COURS D ELABORATION :   Portail référençant les évènements en Loire Atlantique : utilisation d API et mise en place de menus filtrants'
-  },
-  {
-    id: 3,
     image: IMG3,
     title: 'Curriculum Vitae',
     github: 'https://github.com/Jayroots/react_portofolio',
     demo: 'https://cv-opal-seven.vercel.app/',
-    text: 'CV intéractif et dynamique créé de zéro sous REACT JS : lien fonctionnels vers messagerie et réseaux sociaux'
+    text: 'PROJET PERSONNEL INITIATIQUE POUR DECOUVRIR REACT  : CV intéractif et dynamique créé de zéro, liens fonctionnels vers messagerie et réseaux sociaux'
 
   },
   {
-    id: 4,
-    image: IMG4,
-    title: 'Projet 3',
-    github: 'https://github.com',
-    demo: 'https://dribble.com',
-    text: 'En cours d élaboration'
-
-  },
-  {
-    id: 5,
+    id: 2,
     image: IMG5,
-    title: 'Hackathon',
-    github: 'https://github.com',
-    demo: 'https://dribble.com',
-    text: 'En cours d élaboration'
+    title: 'E QUAL',
+    github: 'https://github.com/Jayroots/equal',
+    demo: 'https://equal-one.vercel.app/',
+    text: "PROJET PROFESSIONEL REALISE DANS LE CADRE D UN ENTRETIEN POUR DECOUVRIR NEXTJS : Site vitrine dynamique affichant les analyses de la qualité de l'eau en France avec service de GEOLOCALISATION, RECHERCHE et analyse via GRAPHIQUE DE DONNEES."
 
   },
 

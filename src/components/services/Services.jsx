@@ -21,6 +21,9 @@ const Services = () => {
               <p>Utilisation de framework et library modernes</p>
             </li>
             <li><BsCheck2 className='service__list-icon' />
+              <p>Maitrise du responsive et de l'accessibilité</p>
+            </li>
+            <li><BsCheck2 className='service__list-icon' />
               <p>Presentation client dynamique avec Canvas </p>
             </li>
 
@@ -33,7 +36,7 @@ const Services = () => {
           </div>
           <ul className='service__list'>
             <li><BsCheck2 className='service__list-icon' />
-              <p> Conception d’applications web performantes
+              <p> Conception d’applications
               </p>
             </li>
             <li><BsCheck2 className='service__list-icon' />
@@ -41,6 +44,9 @@ const Services = () => {
             </li>
             <li><BsCheck2 className='service__list-icon' />
               <p>Création d'algorithmes  </p>
+            </li>
+            <li><BsCheck2 className='service__list-icon' />
+              <p>Analyse de code et architecture </p>
             </li>
 
           </ul>
@@ -58,7 +64,7 @@ const Services = () => {
               <p>Maitrise de l'utisation de GIT et GITHUB</p>
             </li>
             <li><BsCheck2 className='service__list-icon' />
-              <p>Outils collaboratifs : Slack, Discord, VSCode </p>
+              <p>Outils : VSCode, IntelliJ, Jira, Azure, Teams </p>
             </li>
 
           </ul>
