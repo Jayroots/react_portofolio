@@ -28,17 +28,17 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Expérience</h5>
-              <small>1 an</small>
+              <small>2 ans</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon' />
-              <h5>Clients</h5>
-              <small>5</small>
+              <h5>Entreprise</h5>
+              <small>1</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
-              <h5>Projets</h5>
-              <small>5</small>
+              <h5>Projets Personnel</h5>
+              <small>2</small>
             </article>
             <article className='about__card'>
               <GiSkills className='about__icon' />
@@ -47,19 +47,19 @@ const About = () => {
             </article>
           </div>
           <p>
-          Actuellement <strong>Développeur Web Full Stack</strong> après ma formation certifiante de niveau 5, 
-          je recherche une entreprise qui me fera confiance pour ma première expérience professionnelle.
+          Actuellement <strong>Développeur Web Full Stack</strong> après ma formation certifiante de niveau 5 en 2023, 
+          j'ai commencé mon expérience professionnelle avec Accenture qui a su me faire confiance.
 
             <br /><br />
-
-            J’ai su mettre en application mon récent apprentissage pour la <strong>réalisation de projets professionnels</strong>
+            Ayant plutôt une appétence FRONT sur React et Angular, j'ai voulu parfaire mes compétences 
+            sur le BACK et suis désormais capable de développer sous JAVA, SPRING / SPRINGBOOT.
+            <br /> <br />
+            J’ai su mettre en application mon apprentissage pour la <strong>réalisation de projets professionnels</strong>
             (cf mon CV et Linkedin) et reste en veille permanente sur ce métier qui me passionne.
             <br /><br />
-            <strong>Pourquoi vous ?</strong> Je serai ravi de faire partie d'une entreprise dont les valeurs véhiculées
-             me donneront envie de m'investir pleinement.
-            <br /> <br />
+            
 
-            <strong> Pourquoi moi ?</strong> J'apprends vite et suis engagé pour accomplir les projets d'entreprise qui ont du sens.
+            J'apprends vite et suis engagé pour accomplir les projets d'entreprise qui ont du sens.
             <br /><br />
             A bientôt !
           </p>
