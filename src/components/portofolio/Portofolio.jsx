@@ -2,6 +2,7 @@ import React from 'react'
 import './portofolio.css'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG5 from '../../assets/portfolio5.jpg'
+import IMG4 from '../../assets/portfolio.jpg'
 
 const data = [
 
@@ -23,7 +24,15 @@ const data = [
     text: "PROJET PROFESSIONEL REALISE DANS LE CADRE D UN ENTRETIEN POUR DECOUVRIR NEXTJS : Site vitrine dynamique affichant les analyses de la qualité de l'eau en France avec service de GEOLOCALISATION, RECHERCHE et analyse via GRAPHIQUE DE DONNEES."
 
   },
+  {
+    id: 3,
+    image: IMG4,
+    title: 'Site vitrine pour enfants',
+    github: 'https://github.com/Jayroots',
+    demo: 'https://anna-wheat.vercel.app/',
+    text: "PROJET PERSONNEL AVEC REACT / VITEJS : Site vitrine pour enfants incluant des animations. Application responsive."
 
+  }
 ]
 
 const Portofolio = () => {

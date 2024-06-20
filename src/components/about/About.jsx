@@ -38,7 +38,7 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projets Personnel</h5>
-              <small>2</small>
+              <small>3</small>
             </article>
             <article className='about__card'>
               <GiSkills className='about__icon' />
@@ -54,6 +54,8 @@ const About = () => {
             Ayant plutôt une appétence FRONT sur React et Angular, j'ai voulu parfaire mes compétences 
             sur le BACK et suis désormais capable de développer sous JAVA, SPRING / SPRINGBOOT.
             <br /> <br />
+            Mon expérience passée de 15 ans dans le monde de bancaire avant ma reconversion est un atout majeur d'un point de vue fonctionnel pour la compréhension et la communication avec le métier.
+            <br /><br />
             J’ai su mettre en application mon apprentissage pour la <strong>réalisation de projets professionnels</strong>
             (cf mon CV et Linkedin) et reste en veille permanente sur ce métier qui me passionne.
             <br /><br />
