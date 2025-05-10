@@ -101,6 +101,13 @@ const Experience = () => {
                 <small class='text-light'>Expérimenté</small>
               </div>
             </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>Postgresql </h4>
+                <small class='text-light'>Expérimenté</small>
+              </div>
+            </article>
 
           </div>
 

@@ -40,6 +40,14 @@ const Services = () => {
               </p>
             </li>
             <li><BsCheck2 className='service__list-icon' />
+              <p> Montée de version 
+              </p>
+            </li>
+            <li><BsCheck2 className='service__list-icon' />
+              <p> Réduction de dette technique
+              </p>
+            </li>
+            <li><BsCheck2 className='service__list-icon' />
               <p>Utilisation d' API</p>
             </li>
             <li><BsCheck2 className='service__list-icon' />
@@ -48,23 +56,41 @@ const Services = () => {
             <li><BsCheck2 className='service__list-icon' />
               <p>Analyse de code et architecture </p>
             </li>
+            <li><BsCheck2 className='service__list-icon' />
+              <p> Migration de base de données
+              </p>
+            </li>
+            <li><BsCheck2 className='service__list-icon' />
+              <p> Tests unitaires et d'intégration
+              </p>
+            </li>
+            <li><BsCheck2 className='service__list-icon' />
+              <p> Conteneurisation (Docker, Kubernetes)
+              </p>
+            </li>
 
           </ul>
         </article>
         {/*WEB DEVELOPMENT*/}
         <article className="service">
           <div className="service__head">
-            <h3>Méthodologie Agile et Scrum </h3>
+            <h3>Méthodologie</h3>
           </div>
           <ul className='service__list'>
             <li><BsCheck2 className='service__list-icon' />
               <p>Planification des tickets et sprint </p>
+            </li>
+             <li><BsCheck2 className='service__list-icon' />
+              <p>Méthodes agiles </p>
             </li>
             <li><BsCheck2 className='service__list-icon' />
               <p>Maitrise de l'utisation de GIT et GITHUB</p>
             </li>
             <li><BsCheck2 className='service__list-icon' />
               <p>Outils : VSCode, IntelliJ, Jira, Azure, Teams </p>
+            </li>
+            <li><BsCheck2 className='service__list-icon' />
+              <p>Linux </p>
             </li>
 
           </ul>
