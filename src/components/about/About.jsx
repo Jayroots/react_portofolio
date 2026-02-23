@@ -28,12 +28,12 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Expérience</h5>
-              <small>2 ans</small>
+              <small>3 ans</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Entreprise</h5>
-              <small>1</small>
+              <small>2</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
@@ -47,20 +47,20 @@ const About = () => {
             </article>
           </div>
           <p>
-          Actuellement <strong>Développeur Web Full Stack</strong> après ma formation certifiante de niveau 5 en 2023, 
+          Actuellement <strong>Développeur Web Full Stack</strong> après ma reconversion en 2023, 
           j'ai commencé mon expérience professionnelle avec Accenture qui a su me faire confiance.
 
             <br /><br />
             Ayant plutôt une appétence FRONT sur React et Angular, j'ai voulu parfaire mes compétences 
-            sur le BACK et suis désormais capable de développer sous JAVA, SPRING / SPRINGBOOT.
+            sur le BACK et suis désormais capable de développer sous JAVA, SPRING / SPRINGBOOT et NODE.
             <br /> <br />
             Mon expérience passée de 15 ans dans le monde de bancaire avant ma reconversion est un atout majeur d'un point de vue fonctionnel pour la compréhension et la communication avec le métier.
             <br /><br />
             J’ai su mettre en application mon apprentissage pour la <strong>réalisation de projets professionnels</strong>
             (cf mon CV et Linkedin) et reste en veille permanente sur ce métier qui me passionne.
             <br /><br />
-            
-
+            En parallèle de mon activité de développeur, je co-fonde <strong>Verso Obsèques</strong>, un projet indépendant autour de la clarté de l’information et de la visibilité locale dans le secteur funéraire.
+<br /><br />
             J'apprends vite et suis engagé pour accomplir les projets d'entreprise qui ont du sens.
             <br /><br />
             A bientôt !
