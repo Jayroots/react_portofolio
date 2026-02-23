@@ -6,8 +6,8 @@ import { FaGithub } from 'react-icons/fa'
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-      <a href="https://www.linkedin.com/in/jeremy-francois/" target='_blank'> <BsLinkedin /></a>
-      <a href="https://github.com/Jayroots" target='_blank'><FaGithub /></a>
+      <a href="https://www.linkedin.com/in/jeremy-francois/" target='_blank' rel="noreferrer"> <BsLinkedin /></a>
+      <a href="https://github.com/Jayroots" target='_blank' rel="noreferrer"><FaGithub /></a>
 
 
     </div>

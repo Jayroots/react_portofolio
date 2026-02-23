@@ -17,7 +17,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="About image" />
+            <img src={ME} alt="Jérémy" />
           </div>
 
 
@@ -43,7 +43,7 @@ const About = () => {
             <article className='about__card'>
               <GiSkills className='about__icon' />
               <h5>Soft Skills</h5>
-              <small> <a href={CV} target='_blank'>Mon cv</a> </small>
+              <small> <a href={CV} target='_blank' rel="noreferrer">Mon cv</a> </small>
             </article>
           </div>
           <p>
